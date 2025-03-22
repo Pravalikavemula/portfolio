@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="header">
+        <div class="container">
+            <nav>
+              <ul>
+                <li><a href="#header">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#project">Project</a></li>
+                <li><a href="#contact">Contact</a></li>
+              </ul>
+            </nav>
+            <div class="header-text">
+                <h1>Hey! I'm <br><span>Pravalika Vemula</span></h1>
+                <p>Software Developer</p>
+                 <!-- Resume Section -->
+                <div id="resume">
+                   <div class="container">
+                      <br><br>
+                     <a href="photos/Resume new.pdf" download="Resume new.pdf" class="btn">Download Resume</a>
+                   </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- About Section -->
+    <div id="about">
+        <div class="container">
+            <div class="row">
+                <div class="about-col-1">
+                    <img src="photos/pic2.jpg" alt="Pravalika Vemula">
+                </div>
+                <div class="about-col-2">
+                    <h1 class="sub-title"> About Me</h1>
+                    <br>
+                    <p>Welcome to my portfolio! My name is Pravalika and I am a passionate software developer with a strong background in building web applications, graphic design, and data analysis. 
+                        I am passionate about learning new technologies and continuously improving my skills to stay at the forefront of the Industry. 
+                        I thrive on solving complex problems and creating innovative solutions that make a difference. 
+                    </p>
+                    <div class="tab-titles">
+                        <p class="tab-links active-link" onclick="opentab('skills')">Skills</p>
+                    </div>
+                    <div class="tab-contents active-tab" id="skills">
+                        <ul>
+                            <li><span>Programming Languages</span><br>C,C++,Java,Python.</li>
+                            <br>
+                            <li><span>Web Development</span><br>HTML, CSS, JavaScript.</li>
+                            <br>
+                            <li><span>Tools</span><br>Git, VS Code, Google Colab, Canva.</li>
+                        </ul>
+                    </div>
+                </div>
+             </div>
+        </div>
+    </div>
+
+    <!-- Project Section -->
+     <br>
+    <br>
+    <br>
+  <div id="project">
+    <div class="container">
+      <h1 class="sub-title">My Projects</h1>
+      <br>
+        <p>Here are some of my projects that I have worked on.</p>
+         <div class="projects-list">
+                <div class="project-col">
+                    <img src="photos/prj1.jpg" alt="Project 1">
+                    <h3>SOLAR TRACKER </h3>
+                    <p> Developed an embedded system using sensors to 
+                        maximize the solar energy generation for sustainability of 
+                        Renewable resource in an Eco-Friendly Environment. </p>
+                </div>
+                <div class="project-col">
+                    <img src="photos/prj2.jpg" alt="Project 2">
+                    <h3>DIABETES PREDICTION </h3>
+                    <p> Analyzing the diabetes dataset with help of the Artificial 
+                        Intelligence algorithms using the Python packages pandas and 
+                        numpy in Google Colab.</p>
+                </div>
+                <div class="project-col">
+                    <img src="photos/prj3.jpg" alt="Project 3">
+                    <h3> 3D MODEL using Flutter</h3>
+                    <p> Designed an 3D Model (3D Graphics) using Dart 
+                        programming in Flutter using its flutter_cube library.</p>
+                </div>
+           </div>
+        </div>
+    </div>
+    <!--------contact section--------->
+    <div id="contact">
+      <div class="container">
+        <div class="row">
+          <div class="contact-left">
+             <h1 class="sub-title">Contact Me</h1>
+             <p>Email id: pravalikavemula494@gmail.com</p>
+             <br>
+             <p>Phone no: 8074154595</p>
+             <div class="social-icons">
+                <a href="https://www.instagram.com/pravalika_vemula_"><img src="photos/insta.png" alt="instagram" width="30" height="30" > Instagram </a>
+                <br>
+                <a href="https://www.linkedin.com/in/pravalika-vemula-9431042a5"><img src="photos/link.png" alt="linkedin" width="30" height="30" > Linkedin </a>
+                <br>
+                <a href="https://github.com/"><img src="photos/git.png" alt="" width="30" height="30"> Githut </a>
+             </div>
+             <a href="photos/Resume new.pdf" download="Resume new.pdf" class="btn">Download Resume</a>
+          </div>
+         </div>
+      </div>
+    </div>
+
+        <!-- Footer Section -->
+        <footer>
+           <div class="copyright">
+              <p>&copy; 2025 Pravalika Vemula. All rights reserved.</p>
+              <ul>
+                <li><a href="https://www.instagram.com/pravalika_vemula_">Instagram</a></li>
+                <li><a href="https://www.linkedin.com/in/pravalika-vemula-9431042a5">LinkedIn</a></li>
+                <li><a href="https://github.com/">Githut</a></li>
+              </ul>
+          </div>
+        </footer>
+
+    
+</body>
+</html>
