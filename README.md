@@ -65,17 +65,9 @@ Edit/Delete functionalities
 
 Bootstrap UI
 
- Smart Study Planner AI
+- Smart Study Planner AI
 
 AI-powered system for exam preparation, progress tracking, schedules & reminders.
-
- Real-Time Video Monitoring Using AWS Kinesis
-
-Detects people without helmets & identifies number plates using YOLO + EasyOCR/AWS Rekognition.
-
- Mini Course Website (HTML + WordPress + AWS)
-
-A simple course website with quizzes, progress tracking, and admin dashboard.
 
  Smart City Traffic Management App
 
@@ -83,15 +75,15 @@ Six-junction traffic visualization system with directional arrows for allowed/re
 
  
 
- Strengths
+- Strengths
 
-Quick Learner
+ Quick Learner
 
-Strong Problem-Solving & Analytical Skills
+ Strong Problem-Solving & Analytical Skills
 
-Good at documentation, presentations & teamwork
+ Good at documentation, presentations & teamwork
 
-Creative thinker + disciplined planner
+ Creative thinker + disciplined planner
 
  Career Goals
 
