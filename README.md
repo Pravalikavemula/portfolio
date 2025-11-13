@@ -12,13 +12,9 @@
 
  I enjoy building:
 
-Smart city/traffic systems
+ IoT & hardware projects
 
-IoT & hardware projects
-
-Django/HTML/Bootstrap websites
-
-AWS-based applications
+ Django/HTML/Bootstrap websites
 
  Hobbies: Drawing, designing in Canva, watching dramas, and exploring new tech
 
@@ -53,7 +49,7 @@ IoT sensors, LDR modules, Servo motors
 Single-axis sun tracking system using LDR sensors + servo motor to maximize solar energy efficiency.
  GitHub Repo Coming Soon
 
- Online Internship Tracker (Django + MySQL)
+- Online Internship Tracker (Django + MySQL)
 
 A web app where students submit daily logs, and mentors give weekly performance feedback.
 
